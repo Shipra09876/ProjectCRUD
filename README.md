@@ -32,13 +32,21 @@ This project helped me learn the fundamentals of Django development and how CRUD
 - Update : Update and edit the existing specific record of student 
 - Delete : Remove the existing record from the database 
 
-## Technologies Used
+# Technologies Used
 - **Django** (Backend framework)
 - **Django Rest Framework** (API development)
 - **HTML,CSS,JavaScript** (Frontend)
 - **SQLITE 3** (Database)
 
-To get a local copy of the project up and running, follow these steps:
+# API endpoints
+- Navigate to homepage to create , update , delete , Read operations --> http://127.0.0.1:8000/api/student_page/ 
+
+- Navigate to Django Rest Framework Page for API --> http://127.0.0.1:8000/api/stuapi/
+
+- Navigate to Admin Panel to Showcase the database --> http://127.0.0.1:8000/admin/CRUD/student/
+
+
+# To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
@@ -47,9 +55,3 @@ To get a local copy of the project up and running, follow these steps:
 🤩 Let's Enjoy The Leaning 
 
 
-# API endpoints
-- Navigate to homepage to create , update , delete , Read operations --> http://127.0.0.1:8000/api/student_page/ 
-
-- Navigate to Django Rest Framework Page for API --> http://127.0.0.1:8000/api/stuapi/
-
-- Navigate to Admin Panel to Showcase the database --> http://127.0.0.1:8000/admin/CRUD/student/
